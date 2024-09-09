@@ -4,6 +4,7 @@ Overview
 The Google User Reviews dataset contains user-generated reviews for various applications. Each review includes information about the app, the review text, sentiment analysis results, and sentiment polarity and subjectivity scores.
 
 Dataset Description
+
 Total Rows: 64,295
 Columns:
 ```
