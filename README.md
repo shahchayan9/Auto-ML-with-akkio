@@ -29,7 +29,9 @@ Examples: 0.0, 0.5, 1.0
 ```
 
 Data Sources
-```This dataset is derived from user reviews on Google Play Store, focusing on user feedback and sentiment analysis.```
+```
+This dataset is derived from user reviews on Google Play Store, focusing on user feedback and sentiment analysis.
+```
 
 Usage
 This dataset can be used for various analyses, including:
