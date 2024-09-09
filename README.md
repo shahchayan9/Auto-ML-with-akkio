@@ -6,6 +6,7 @@ The Google User Reviews dataset contains user-generated reviews for various appl
 Dataset Description
 Total Rows: 64,295
 Columns:
+```
 1. App (string): The name of the application being reviewed.
 Examples: "Angry Birds Classic", "CBS Sports App"
 
@@ -24,15 +25,16 @@ Examples: 0.0, 0.5, 1.0
 5. Sentiment_Subjectivity (float): A numerical score representing the subjectivity of the review.
 Null Count: 26,863
 Examples: 0.0, 0.5, 1.0
-
+```
 
 Data Sources
 This dataset is derived from user reviews on Google Play Store, focusing on user feedback and sentiment analysis.
 
 Usage
 This dataset can be used for various analyses, including:
-
+```
 Sentiment analysis
 Natural language processing
 App performance evaluation
 User feedback analysis
+```
